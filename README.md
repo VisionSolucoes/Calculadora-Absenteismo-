@@ -86,4 +86,4 @@ O índice de absenteísmo é calculado considerando:
 
 ## 📄 Exemplo de Cálculo
 
-https://visionsolucoes.github.io/calculadora-absenteismo/
+https://visionsolucoes.github.io/Calculadora-Absenteismo-/
