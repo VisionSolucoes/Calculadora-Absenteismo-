@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/nome-do-seu-repositorio/',
+  base: '/calculadora-absenteismo/',
 });
